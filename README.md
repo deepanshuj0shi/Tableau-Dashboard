@@ -60,6 +60,7 @@ This dashboard focuses on customer segments, regional performance, and product-l
 * Certain product sub-categories consistently generate higher revenue.
 
 ---
+<img width="1650" height="893" alt="image" src="https://github.com/user-attachments/assets/51f432f5-4ee0-43fe-9fe6-98d9e2f45952" />
 
 ## Dashboard 3: Shark Tank US Investment Analysis
 
@@ -82,6 +83,7 @@ This dashboard analyzes investment trends, startup valuations, industry performa
 * **Investor Leaderboard**
 
   * Ranks investors based on total investments made.
+<img width="1654" height="904" alt="image" src="https://github.com/user-attachments/assets/8c80789e-f03f-4fde-aab2-e35eb1fa7a71" />
 
 ### Insights
 
