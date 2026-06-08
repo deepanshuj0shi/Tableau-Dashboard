@@ -30,6 +30,7 @@ This dashboard provides an overall view of business performance by analyzing sal
 * A few transactions have high sales but low profitability.
 
 ---
+<img width="1641" height="901" alt="image" src="https://github.com/user-attachments/assets/766a1fe2-35cd-4cb2-9b8b-36888959a702" />
 
 ## Dashboard 2: Regional & Segment Analysis
 
